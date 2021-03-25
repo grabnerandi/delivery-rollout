@@ -6,7 +6,7 @@ replicaCount: 5
 
 image:
   repository: docker.io/grabnerandi/simplenodeservice
-  tag: 4.0.0
+  tag: 2.0.0
   pullPolicy: Always
 
 ingress:
